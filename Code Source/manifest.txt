@@ -1,0 +1,2 @@
+Main-Class: ImageEditing
+Class-Path: ImageEditing.jar PicFrame.jar ZoomTest.jar PicPanel.jar ImagePanel.jar ImageZoom$1.jar ImageZoom$2.jar ImageZoom.jar ./com/as/func/Fonctions.jar
